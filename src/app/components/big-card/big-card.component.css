@@ -4,7 +4,7 @@
   margin-left: 10px;
   margin-right: 10px;
   width: 400px;
-  height: 600px;
+  height: 360px;
 
   display: flex;
   flex-direction: column;
@@ -13,8 +13,8 @@
 }
 
 .big-card__photo > img {
-  width: 100%;
-  min-width: 400px;
+  width: 80%;
+  min-width: 350px;
 }
 
 .big-card__title > h1 {

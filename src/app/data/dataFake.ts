@@ -4,23 +4,21 @@ export const dataFake = [
     photoCover:
       'https://tudosobrecachorros.com.br/wp-content/uploads/yorkshire.jpg',
     title: 'Tudo começou assim',
-    description: 'Era uma vez um lindo cãozinho cheio de pelos pretos, que cresceu, acho que só em latido, bem vido mana  pra mim é cata-SelectorListContext..."
+    description:
+      'Era uma vez um lindo cãozinho cheio de pelos pretos, que cresceu, acho que só em latido, bem vido mana pra os intimos Catalixo',
   },
   {
     id: '2',
-    photo: '',
-    photoCover: '',
-    title: 'huck',
-    description:
-      'Verde e forte, grande e destroi tudo, mais tem um grande coração',
+    photoCover: '/asserts/img/azeitona.webp',
+    title: 'Azeitona',
+    description: 'Bolinha preta, peluda e pequena ',
   },
   {
     id: '3',
-    photo: '',
-    photoCover:
-      'https://gkpb.com.br/wp-content/uploads/2022/06/fagWFrNEGrM2p3DCOwgrO5fBmUn-scaled-e1655148584687.jpg',
-    title: 'homen aranha',
-    description: 'Ele é o amigo da vizinhança, faz muita bagunça',
+
+    photoCover: '/asserts/img/treme-treme.webp',
+    title: 'treme-treme',
+    description: 'Grande, e cabeção, da turma, mais medrosa como ela ',
   },
   {
     id: '4',
