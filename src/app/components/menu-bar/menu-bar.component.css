@@ -1,0 +1,13 @@
+.container__menu-bar > ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.container__menu-bar > ul > li {
+  margin-right: 50px;
+  list-style: none;
+  padding-top: 20px;
+  color: rgb(246, 95, 20);
+}
