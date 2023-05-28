@@ -1,27 +1,30 @@
 # EdBlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Este projeto usou [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
-## Development server
+<p>
+  <img src="https://raw.githubusercontent.com/luizk9/angular_blog-Diio/main/src/assets/img/dog_blog.webp" />
+ </p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Execultar
 
-## Code scaffolding
+Rode `ng serve` e use o endereço `http://localhost:4200/`. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Objetivo
+  No intuito de concluir a etapa do bootcamp, foi desenvolvido o blog , baseado na aula do instrutor Felipe,
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Tecnologias
 
-## Running unit tests
+ foram utilizadas as ferramentas do Angular CLI, juntamente com HTML , CSS e o Typescript
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Conclusão
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+O projeto como o aprendizado continuaram, em busca de melhorias e o fortalecimento do conhecimento,ficando aqui o desagio de a cada dia construir um algo melhor
 
-## Further help
+## Considerações
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para contato EDIMIRK9@GMAIL.COM .... 
+Em tudo dai graças, para Honra e glória de um só Deus, o criador.
+
